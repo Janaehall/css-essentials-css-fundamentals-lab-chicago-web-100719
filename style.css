@@ -24,6 +24,13 @@ nav a {
 }
 
 #featured-property p {
-  width:800px;
-  text-align:center
+  width: 800px;
+  text-align: center
+}
+
+#details div{
+  float: left;
+  display: block;
+  width: 25%;
+  text-align: center;
 }
