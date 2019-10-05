@@ -22,3 +22,8 @@ nav a {
   padding: 10px;
   background:red;
 }
+
+#featured-property p {
+  width:800px;
+  text-align:center
+}
